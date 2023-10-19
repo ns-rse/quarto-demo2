@@ -2,6 +2,6 @@ project:
   type: website
 
 website:
-  title: "<TITLE>"
-  site-url: https://<YOUR_GITHUB_USERNAME>.github.io/<NAME_OF_REPOSITORY
-  description: "<DESCRIPTION>"
+  title: "Quarto Demonstration"
+  site-url: https://ns-rse.github.io/quarto-demo2
+  description: "A live demo of using Quarto slides."
